@@ -147,11 +147,10 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     grid-gap:50px;
-   background-image: url(./assets/Rectangle\ 3.png);
+    background-image: url(./assets/Rectangle\ 3.png);
     height: 376px;
     width: 100%;
     margin-top: 65px;
-    margin-left: ;
 }
 .footer a{
     color: white;
